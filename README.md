@@ -12,47 +12,47 @@
 
 下载后安装使用管理员身份打开，界面如下：
 
-![image-20220504172307993](ToolsJPG\image-20220504172307993.png)
+![image-20220504172307993](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504172307993.png)
 
 主要功能截图：
 
 日志：
 
- ![image-20220504172338746](ToolsJPG\image-20220504172338746.png)
+ ![image-20220504172338746](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504172338746.png)
 
 性能报告：
 
- ![image-20220504172850461](ToolsJPG\image-20220504172850461.png)
+ ![image-20220504172850461](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504172850461.png)
 
 索引报告;
 
 
 
-![image-20220504172751241](ToolsJPG\image-20220504172751241.png)
+![image-20220504172751241](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504172751241.png)
 
 
 
 性能计数器：
 
-![image-20220504172918920](ToolsJPG\image-20220504172918920.png)
+![image-20220504172918920](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504172918920.png)
 
 数据库进程：
 
-![image-20220504173610958](ToolsJPG\image-20220504173610958.png)
+![image-20220504173610958](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504173610958.png)
 
 安全报告
 
-![image-20220504173935764](ToolsJPG\image-20220504173935764.png)
+![image-20220504173935764](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504173935764.png)
 
 其他
 
-![image-20220504173917881](ToolsJPG\image-20220504173917881.png)
+![image-20220504173917881](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504173917881.png)
 
 
 
 总体功能如下：
 
-![image-20220504172618689](ToolsJPG\image-20220504172618689.png)
+![image-20220504172618689](https://github.com/maxshen29/DataBaseTools/blob/main/ToolsJPG/image-20220504172618689.png)
 
 
 
