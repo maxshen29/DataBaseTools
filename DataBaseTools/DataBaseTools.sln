@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBaseTools", "DataBaseTools.csproj", "{F81EFDAD-C5D8-4CB2-99B0-65769992631D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DataToolsSetup", "..\DataBaseToolsSetup\Data.vdproj", "{7936DD8B-A48E-47DE-BA4D-687F6BE61347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81EFDAD-C5D8-4CB2-99B0-65769992631D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81EFDAD-C5D8-4CB2-99B0-65769992631D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81EFDAD-C5D8-4CB2-99B0-65769992631D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81EFDAD-C5D8-4CB2-99B0-65769992631D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7936DD8B-A48E-47DE-BA4D-687F6BE61347}.Debug|Any CPU.ActiveCfg = Debug
+		{7936DD8B-A48E-47DE-BA4D-687F6BE61347}.Debug|Any CPU.Build.0 = Debug
+		{7936DD8B-A48E-47DE-BA4D-687F6BE61347}.Release|Any CPU.ActiveCfg = Release
+		{7936DD8B-A48E-47DE-BA4D-687F6BE61347}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59EA79D-247D-4CFC-A302-9A46EC30BC96}
+	EndGlobalSection
+EndGlobal
